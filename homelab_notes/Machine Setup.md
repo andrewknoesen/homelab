@@ -1,3 +1,4 @@
+[reference](https://cavecafe.medium.com/setup-homelab-kubernetes-cluster-cfc3acd4dca5)
 # Operating System
 For this we will be using Ubuntu Server.
 [Link](https://ubuntu.com/download/server)  to OS
