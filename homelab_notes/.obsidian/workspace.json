@@ -6,19 +6,8 @@
       {
         "id": "3bda62470b24e54f",
         "type": "tabs",
+        "dimension": 64.46917808219177,
         "children": [
-          {
-            "id": "6a38edcd2b83f02d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Contents.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
           {
             "id": "118f6a21e28e4ebf",
             "type": "leaf",
@@ -30,13 +19,38 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2ad34f031b1754be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Machine Setup.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "deac40e56eb09be1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Machine Setup.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "61f032719239af9b",
         "type": "tabs",
+        "dimension": 35.53082191780822,
         "children": [
           {
             "id": "41f5310c91f11d74",
@@ -173,9 +187,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "118f6a21e28e4ebf",
+  "active": "deac40e56eb09be1",
   "lastOpenFiles": [
     "Contents.md",
-    "Machine Setup.md"
+    "Machine Setup.md",
+    "Tidbids/Control Plane notes.md",
+    "Tidbids",
+    "Resources/Pasted image 20241017204720.png",
+    "Resources"
   ]
 }
