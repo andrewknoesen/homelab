@@ -10,9 +10,10 @@ For this we will be using Ubuntu Server.
 	- Canonical Live Patch
 	- Docker
 3. Setup SSH
-4. Run setup.sh script
-	- `ssh user@host 'bash -s' < /path/to/setup.sh` 
-5. Modify the hosts file to add hostnames of each node
+4. Run setup_1.sh and setup_2.sh scripts on remote client
+	- `scp user@host ./setup_1.sh ~/kube_setup/`
+	- `scp user@host ./setup_2.sh ~/kube_setup/`
+1. Modify the hosts file to add hostnames of each node
 	- `sudo nano /etc/hosts`
 		- `sudo apt install nano`
 	- Sample:
